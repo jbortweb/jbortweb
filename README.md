@@ -9,7 +9,7 @@
 - :open_book: Conocimientos de **Redux, JSX, Hooks, SCSS, Vuetify, jQuery, Bootstrap, Git, Gimp, Trello, Linux, SEO y UX, Material UI,etc.**
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jbortweb&show_icons=true&theme=radical)" alt="jbortweb" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jbortweb&show_icons=true&theme=radical" alt="jbortweb" />
 </p>
 
 <p align="left">
