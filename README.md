@@ -23,9 +23,9 @@ Desarrollador especializado en interfaces modernas y aplicaciones web.
 
 ## 🚀 Proyectos destacados
 
-- 🔹 [https://github.com/jbortweb/hackmidudev](https://portafoliojbortweb.netlify.app/)  
-- 🔹 [https://github.com/jbortweb](https://www.lenceriamaduixa.com/)  
-- 🔹 [(añade aquí tus mejores repos)](https://espaciozensjm.com/)
+- 🔹 [Portafolio](https://portafoliojbortweb.netlify.app/)  
+- 🔹 [Lencería Maduixa](https://www.lenceriamaduixa.com/)  
+- 🔹 [(Espacio Zen)](https://espaciozensjm.com/)
 
 ---
 
