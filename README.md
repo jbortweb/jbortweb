@@ -25,7 +25,8 @@ Desarrollador especializado en interfaces modernas y aplicaciones web.
 
 - 🔹 [Portafolio](https://portafoliojbortweb.netlify.app/)  
 - 🔹 [Lencería Maduixa](https://www.lenceriamaduixa.com/)  
-- 🔹 [(Espacio Zen)](https://espaciozensjm.com/)
+- 🔹 [Espacio Zen](https://espaciozensjm.com/)
+- 🔹 [Component Gallery](https://gallerycomponent.netlify.app/)
 
 ---
 
